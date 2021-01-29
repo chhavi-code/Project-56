@@ -12,7 +12,7 @@ h1
     
 }
 h4{
-font-size: 10px;
+font-size: 40px;
 color: black;
 }
 img
@@ -22,5 +22,15 @@ img
 }
 p
 {
-    font-size: 50px;
+    font-size: 10px;
+}
+.image-section{
+    display: flex;
+    justify-content: center;
+}
+.section-style
+{
+    margin-left: 25px;
+    margin-right: 25px;
+    background-color: aliceblue;
 }
